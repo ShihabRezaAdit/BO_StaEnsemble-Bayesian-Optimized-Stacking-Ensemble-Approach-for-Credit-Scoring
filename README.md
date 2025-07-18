@@ -43,4 +43,14 @@ This project introduces BO-StaEnsemble, a stacked ensemble learning framework op
 ![image](https://github.com/user-attachments/assets/5204da89-a66c-48bb-85df-9931ee8e8a49)
 
 
+## 📚 Citation
 
+If you use **BO-StaEnsemble** in your research, please cite our work using the following BibTeX entry:
+
+```bibtex
+@unpublished{BOStaEnsemble2025,
+  title     = {Multi-Domain Validation of Bayesian Optimized Stacking Ensembles for Next-Generation Credit Risk Modeling with Granular Explainability and Robust Statistical Inference},
+  author    = {Monirul Islam Mahmud, Md Shihab Reza, Farhana Elias, Kazi Aniya Ahmed, Marjana Ahammad, Ifti Azad Abeer, Nova Ahmed},
+  year      = {2025},
+  note      = {Under Review}
+}
